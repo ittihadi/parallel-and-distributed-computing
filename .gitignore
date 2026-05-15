@@ -1,0 +1,9 @@
+*.pdf
+*.mp4
+*.png
+*.xmind
+
+Anaconda3-*.sh
+
+openmp-practice/
+.ipynb_checkpoints/
