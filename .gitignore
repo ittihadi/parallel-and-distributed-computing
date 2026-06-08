@@ -3,7 +3,11 @@
 *.png
 *.xmind
 
+*.docx
+
 Anaconda3-*.sh
 
 openmp-practice/
 .ipynb_checkpoints/
+
+module-2/openmp_files/
